@@ -59,7 +59,7 @@ set(SourceFiles
     Source/Main.cpp
     Source/MainComponent.cpp
     Source/PluginTests.cpp
-    Source/tests/BasicTests.cpp
+    Source/tests/BenchmarkTests.cpp
     Source/TestUtilities.cpp
     Source/Validator.cpp)
 
