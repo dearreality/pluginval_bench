@@ -1,2 +1,6 @@
 [requires]
 benchmark/2006
+
+[generators]
+cmake_find_package
+cmake
