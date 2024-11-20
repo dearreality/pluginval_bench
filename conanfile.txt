@@ -1,0 +1,2 @@
+[requires]
+benchmark/2006
